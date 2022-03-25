@@ -25,8 +25,8 @@ git clone https://github.com/aouwalitshikkha/open-ai-intro-from-csv.git
 ```
 
 
-2. APi Key of OPEN AI  [Get API](https://beta.openai.com/account/api-keys)
-3. Replace your API Key in 3rd line
+3. APi Key of OPEN AI  [Get API](https://beta.openai.com/account/api-keys)
+4. Replace your API Key in 3rd line
 ```python
 openai.api_key = 'Your-API-Key'
 ```
