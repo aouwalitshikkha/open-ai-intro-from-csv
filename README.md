@@ -34,4 +34,4 @@ openai.api_key = 'Your-API-Key'
 Main Thread: [SERPKey Facebook Group](https://www.facebook.com/groups/serpkey/posts/746403956765133/)   
 SH Sumon Profile:  [SH SUMON](https://www.facebook.com/tissumon/)
 
-Disclaimer: Use this at your own risk.
+Disclaimer from SH Sumon: Use this at your own risk.
