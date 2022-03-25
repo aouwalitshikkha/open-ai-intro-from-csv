@@ -11,9 +11,14 @@
 ## What do you need ?
 
 1. Need to install Open AI . To Install just run the following code  in your command prompt   
-`pip install --upgrade opena`  
+```python
+pip install --upgrade openai
+```
 if you want to install from source   
-`python setup.py install`
+```python
+python setup.py install
+```
+   
 
 2. APi Key of OPEN AI  [Get API](https://beta.openai.com/account/api-keys)
 3. Replace your API Key in 3rd line
