@@ -18,7 +18,12 @@ if you want to install from source
 ```python
 python setup.py install
 ```
-   
+
+2. Clone it
+```python
+git clone https://github.com/aouwalitshikkha/open-ai-intro-from-csv.git
+```
+
 
 2. APi Key of OPEN AI  [Get API](https://beta.openai.com/account/api-keys)
 3. Replace your API Key in 3rd line
