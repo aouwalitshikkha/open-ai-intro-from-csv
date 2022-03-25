@@ -27,6 +27,9 @@ git clone https://github.com/aouwalitshikkha/open-ai-intro-from-csv.git
 
 2. APi Key of OPEN AI  [Get API](https://beta.openai.com/account/api-keys)
 3. Replace your API Key in 3rd line
+```python
+openai.api_key = 'Your-API-Key'
+```
 
 Main Thread: [SERPKey Facebook Group](https://www.facebook.com/groups/serpkey/posts/746403956765133/)   
 SH Sumon Profile:  [SH SUMON](https://www.facebook.com/tissumon/)
